@@ -27,7 +27,7 @@ Acesse o link e instale o GitBash, que usaremos para clonar o repositório:
 
 Com tudo instalado, crie uma pasta na sua área de trabalho, e dentro dela clique com o botão direito do mouse e selecione "Open Git Bash Here", após isso, uma janela preta irá aparecer, insira o seguinte comando seguido do link do repositório
 
-**git clone https://github.com/wyllianr/PesquisadorDeUsuarios.git**
+**git clone https://github.com/wyllianr/AplicativoBuscarUsuarios.git**
 
 Com isso a aplicação será clonada, você agora deve abrir o VIsual Studio Code e abrir a aplicação
 

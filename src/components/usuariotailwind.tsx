@@ -66,7 +66,7 @@ export default function ProfileTailwind() {
           <hr className="my-4 border-[#8b5cf6]" />
           <div className="text-white">{profile?.bio || "Sem biografia"}</div>
           <hr className="my-4 border-[#8b5cf6]" />
-          <div className="text-white">Repositórios públicos: {profile?.public_repos ?? "nenhum"}</div>
+          <div className="text-white">Repositórios públicos: {profile?.public_repos ?? "Nenhum usuário"}</div>
         </div>
       </div>
     </div>
